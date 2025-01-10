@@ -1,0 +1,7 @@
+ipywidgets
+IPython
+requests
+Pillow
+matplotlib
+tensorflow
+numpy
